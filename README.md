@@ -4,13 +4,8 @@
 Write a brief summary of your project, including any relevant data and the course it was completed for.
 
 ## Links to Project Documents
-- [Project Report](link_to_report.pdf)
-- [Project Data](link_to_data.csv)
-
-## Picture or Links to Simulation Files
-![Simulation Image](link_to_simulation_image.png)
-- [Simulation File 1](link_to_simulation_file1.sim)
-- [Simulation File 2](link_to_simulation_file2.sim)
+- [Project Document 1](link_to_report.pdf)
+- [Project Document 2](link_to_report2.pdf)
 
 ## Links to Presentations (or Videos if you’ve made them for class)
 - [Project Presentation](link_to_presentation.pdf)
