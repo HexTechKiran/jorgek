@@ -23,5 +23,3 @@ Include an excerpt or summary from your Metacognition Journal that showcases you
 Describe an instance where you encountered a significant challenge or failure in your learning journey, especially related to a concept you haven't learned yet. Reflect on what you learned from this experience.
 
 ---
-
-Feel free to replace the placeholders (e.g., `link_to_report.pdf`) with actual URLs or file paths. You can also further customize the content and formatting to suit your needs and style. This Markdown template can be used as a starting point for creating your portfolio website.
